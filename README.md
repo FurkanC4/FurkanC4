@@ -1,6 +1,6 @@
 # -FurkanC4-
 
-Herkese selam ben Furkan. Bilgisayar Bilimleri 3.Sınıf öğrencisiyim.
+👋 Herkese selam ben Furkan. Bilgisayar Bilimleri 3.Sınıf öğrencisiyim.
 
 Liseden beri elektronik,yazılım ve tasarım ile uğraşıyorum. 
 
@@ -12,7 +12,7 @@ Python ile uzun süredir çalışmalar yapmaktayım ve belli bir tecrübe sahibi
 Aktif olarak okulumuzda kurmuş olduğumuz Cumhuriyet Data Science kulubünün başkanlığını yapmaktayım.
 Şu anda  aktif olarak görüntü işleme üzerine bir proje de ekip liderliği yapmaktayım.
 
-Şu anda bir hedefim bulunmakta ve bunun için tüm eforumu sarfediyorum. 
+⚡ Şu anda bir hedefim bulunmakta ve bunun için tüm eforumu sarfediyorum. 
  
 
 
