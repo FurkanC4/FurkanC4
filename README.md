@@ -25,7 +25,7 @@ NoSQL : MongoDB
 
 - 🌱 I’m currently learning **Embeded Artifical Intelligence Systems**
 
-- 👨‍💻 All of my projects are available at [soillesstech.com](soillesstech.com)
+- 👨‍💻 All of my projects are available at [furkantas.space](furkantas.space)
 
 - 📫 How to reach me **tasyumruk.huseyin@gmail.com**
 
