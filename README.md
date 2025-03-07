@@ -9,7 +9,7 @@ I have completed the project of predicting the surface heating of the batteries 
 
 Here is my best talents :
 
-Languages : Python, R, C++
+Languages : Python, R, React Native
 
 Using : NVIDIA Jetson Nano, Raspberry Pi,(Pico,Zero), ESP32-ESP8266, Arduino (all kits)
 
